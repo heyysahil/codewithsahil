@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.sciencefriday.com/wp-content/uploads/2023/05/ezgif.com-optimize.gif?w=575&h=380&crop=1">
+<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyysahil&label=Profile%20views&color=0e75b6&style=flat" alt="heyysahil" /> </p>
 
